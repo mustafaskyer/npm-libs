@@ -3,6 +3,8 @@ import { renderToString } from 'react-dom/server';
 
 import type { EntryContext } from '@remix-run/node';
 
+
+
 export default function handleRequest(
   request: Request,
   responseStatusCode: number,
