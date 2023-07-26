@@ -9,6 +9,8 @@ import {
 
 import styles from './tailwind.css';
 
+
+
 import type { MetaFunction, LinksFunction } from '@remix-run/node';
 import { Footer } from './lib/components/Footer';
 
